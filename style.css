@@ -28,12 +28,12 @@ nav .logo {
   font-size: 1.7rem;
   font-weight: bold;
   letter-spacing: 1px;
-  color: #ffffff;
+  color: #aaa;
 }
 
 .logo-side
 {
-  color: #a01fdc;
+  color: #aaaaaa;
 }
 
 nav ul {
@@ -67,7 +67,7 @@ nav a:hover {
 .hero-content h1 {
   font-size: 3.5rem;
   letter-spacing: 4px;
-  color: #aaa;
+  color: #ffffff;
   margin-bottom: 15px;
 }
 

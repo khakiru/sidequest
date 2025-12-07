@@ -181,7 +181,7 @@ nav a:hover {
 }
 
 .partner-card img {
-  max-width: 150px;   /* adjust as needed */
+  max-width: 50px;   /* adjust as needed */
   height: auto;
   display: block;
 }

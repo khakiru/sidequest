@@ -173,6 +173,11 @@ nav a:hover {
   flex: 1 1 300px;
 }
 
+.contact-partner a
+{
+    text-decoration: none;
+}
+
 .partner-card {
   background: #1d1d1d;
   padding: 20px 25px;

@@ -168,7 +168,6 @@ nav a:hover {
   flex: 1 1 300px;
 }
 
-/* Partner Card */
 .partner-card {
   background: #1d1d1d;
   padding: 20px 25px;
@@ -176,22 +175,20 @@ nav a:hover {
   border: 1px solid #2a2a2a;
   text-align: center;
   display: flex;
-  flex-direction: column;   /* Ensure logo and name stack vertically */
+  justify-content: center;
   align-items: center;
   transition: transform 0.3s, box-shadow 0.3s;
-  gap: 10px;                /* space between logo and name */
 }
 
 .partner-card img {
-  max-width: 150px;
+  max-width: 150px;   /* adjust as needed */
   height: auto;
   display: block;
 }
 
-.partner-card p {
-  color: #aaa;
-  font-weight: 600;
-  margin: 0;
+.partner-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.5);
 }
 
 /* Contact links */

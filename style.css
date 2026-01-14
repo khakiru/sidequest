@@ -243,3 +243,15 @@ footer {
     font-size: 1rem;
   }
 }
+
+.join-now {
+  background-color: #861bd8;
+  color: #ffffff;
+  border: none;
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
